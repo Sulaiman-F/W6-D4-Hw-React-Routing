@@ -7,7 +7,7 @@ function Golf() {
     bg-cover bg-no-repeat"
     >
       <iframe
-        className=" lg:px-10 lg:p-0 w-full lg:w-[50%] h-[20rem] rounded-2xl shadow-2xl hover:shadow-black  transition duration-300 ease-in-out transform hover:scale-105  "
+        className="  lg:p-0 w-full lg:w-[50%] h-[20rem] rounded-2xl shadow-2xl hover:shadow-black  transition duration-300 ease-in-out transform hover:scale-105  "
         src="https://www.youtube.com/embed/PYf05vJjdwY?si=hft0Bw_UIFkSQy63"
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

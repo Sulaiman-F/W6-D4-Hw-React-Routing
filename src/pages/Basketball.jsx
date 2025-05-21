@@ -6,7 +6,7 @@ function Basketball() {
     bg-cover bg-no-repeat"
     >
       <iframe
-        className="lg:px-10 lg:p-0 w-full lg:w-[50%] h-[20rem] rounded-2xl shadow-2xl hover:shadow-black  transition duration-300 ease-in-out transform hover:scale-105  "
+        className=" lg:p-0 w-full lg:w-[50%] h-[20rem] rounded-2xl shadow-2xl hover:shadow-black  transition duration-300 ease-in-out transform hover:scale-105  "
         src="https://www.youtube.com/embed/aIY_vQCaIto?si=c5IMz4M19QR4ezIO"
         title="YouTube video player"
         frameborder="0"
