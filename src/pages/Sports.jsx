@@ -3,7 +3,7 @@ import React from "react";
 function Sports() {
   return (
     <div
-      className="flex  justify-center items-center h-[72vh] pt-5 bg-[url(https://images.pexels.com/photos/945471/pexels-photo-945471.jpeg?auto=compress&cs=tinysrgb&w=1200)] bg-center
+      className="flex  justify-center items-center lg:h-[72vh] pt-5 bg-[url(https://images.pexels.com/photos/945471/pexels-photo-945471.jpeg?auto=compress&cs=tinysrgb&w=1200)] bg-center
     bg-cover bg-no-repeat"
     >
       <div className="flex flex-col lg:h-[20rem] px-10 lg:px-5 w-10/12 gap-5  bg-white/90 rounded-2xl shadow-2xl  hover:shadow-black  transition duration-300 ease-in-out transform hover:scale-105   p-5">
